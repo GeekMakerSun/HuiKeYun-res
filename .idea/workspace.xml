@@ -4,15 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="616b3be0-bb29-465b-81f4-a0bf5d2eb457" name="变更" comment=".idea">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd075afd-aa89-4f41-8b45-194668a21883" name="变更vercel.json" comment="变更vercel.json" />
     <list id="119fa6aa-7769-4dc7-b4a4-1e05ccba850b" name="idea" comment="修改.ideea" />
-    <list id="cd075afd-aa89-4f41-8b45-194668a21883" name="变更vercel.json" comment="变更vercel.json" />
+    <list id="616b3be0-bb29-465b-81f4-a0bf5d2eb457" name="变更" comment=".idea" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="ComposerSettings">
     <execution />
@@ -86,7 +89,7 @@
       <workItem from="1657646936656" duration="1247000" />
       <workItem from="1657671919060" duration="846000" />
       <workItem from="1657790069594" duration="1143000" />
-      <workItem from="1657802371501" duration="592000" />
+      <workItem from="1657802371501" duration="964000" />
     </task>
     <task id="LOCAL-00001" summary="新增">
       <created>1657640064383</created>
@@ -179,7 +182,28 @@
       <option name="project" value="LOCAL" />
       <updated>1657802949545</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="修改.ideea">
+      <created>1657803257916</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1657803257916</updated>
+    </task>
+    <task id="LOCAL-00015" summary="变更vercel.json">
+      <created>1657803268019</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1657803268019</updated>
+    </task>
+    <task id="LOCAL-00016" summary="变更vercel.json">
+      <created>1657803388447</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1657803388447</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +226,7 @@
     <MESSAGE value="新增" />
     <MESSAGE value="添加探针" />
     <MESSAGE value=".idea" />
+    <MESSAGE value="修改.ideea" />
     <MESSAGE value="变更vercel.json" />
     <option name="LAST_COMMIT_MESSAGE" value="变更vercel.json" />
   </component>
