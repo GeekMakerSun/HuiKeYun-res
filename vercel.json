@@ -2,8 +2,12 @@
   "public": false,
   "headers": [
     {
-      "source": "(.*)",
+      "source": "/(.*)",
       "headers" : [
+        {
+          "key": "server",
+          "value": "sss"
+        },
         {
           "key": "Cache-Control",
           "value": "public, max-age=0, must-revalidate"
