@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="616b3be0-bb29-465b-81f4-a0bf5d2eb457" name="变更" comment=".idea" />
+    <list default="true" id="616b3be0-bb29-465b-81f4-a0bf5d2eb457" name="变更" comment=".idea">
+      <change afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +62,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
@@ -73,6 +82,7 @@
       <workItem from="1657646936656" duration="1247000" />
       <workItem from="1657671919060" duration="846000" />
       <workItem from="1657790069594" duration="1143000" />
+      <workItem from="1657802371501" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="新增">
       <created>1657640064383</created>
