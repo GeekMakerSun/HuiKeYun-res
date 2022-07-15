@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="616b3be0-bb29-465b-81f4-a0bf5d2eb457" name="变更" comment="修改输出为 public" />
+    <list default="true" id="616b3be0-bb29-465b-81f4-a0bf5d2eb457" name="变更" comment="修改输出">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="119fa6aa-7769-4dc7-b4a4-1e05ccba850b" name="idea" comment="新增 FontAwesome" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +82,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DevCode\HuiKeYun-res\static" />
       <recent name="D:\DevCode\HuiKeYun-res\src" />
     </key>
   </component>
@@ -357,6 +360,7 @@
     <MESSAGE value="修改为webpack管理" />
     <MESSAGE value="添加 @popperjs" />
     <MESSAGE value="修改输出为 public" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改输出为 public" />
+    <MESSAGE value="修改输出" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改输出" />
   </component>
 </project>
