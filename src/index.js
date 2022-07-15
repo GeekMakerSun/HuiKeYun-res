@@ -1,4 +1,5 @@
 import Aegis from 'aegis-web-sdk';
+/*
 function getComponent() {
 	const element = document.createElement('div');
 	return import('lodash')
@@ -14,6 +15,7 @@ function getComponent() {
 getComponent().then((component) => {
 	document.body.appendChild(component);
 });
+*/
 
 
 const aegis = new Aegis({
