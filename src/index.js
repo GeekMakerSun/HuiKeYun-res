@@ -8,3 +8,4 @@ console.log(`sum result: ${result}`)
 const len = getLength('Hello Webpack')
 console.log(`len: ${len}`)
 */
+console.log(`Hi,你好呀`)

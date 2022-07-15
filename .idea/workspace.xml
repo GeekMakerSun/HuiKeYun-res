@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="616b3be0-bb29-465b-81f4-a0bf5d2eb457" name="变更" comment="修改输出">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="616b3be0-bb29-465b-81f4-a0bf5d2eb457" name="变更" comment="修改" />
     <list id="119fa6aa-7769-4dc7-b4a4-1e05ccba850b" name="idea" comment="新增 FontAwesome" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -354,13 +352,13 @@
     <MESSAGE value=".idea" />
     <MESSAGE value="修改.ideea" />
     <MESSAGE value="变更vercel.json" />
-    <MESSAGE value="修改" />
     <MESSAGE value="新增 FontAwesome" />
     <MESSAGE value="升级bootstrap" />
     <MESSAGE value="修改为webpack管理" />
     <MESSAGE value="添加 @popperjs" />
     <MESSAGE value="修改输出为 public" />
     <MESSAGE value="修改输出" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改输出" />
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
   </component>
 </project>
