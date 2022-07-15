@@ -4,104 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="616b3be0-bb29-465b-81f4-a0bf5d2eb457" name="变更" comment="升级bootstrap">
-      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    <list default="true" id="616b3be0-bb29-465b-81f4-a0bf5d2eb457" name="变更" comment="修改为webpack管理">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-grid.rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-grid.rtl.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-grid.rtl.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-reboot.rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-reboot.rtl.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-reboot.rtl.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-utilities.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-utilities.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-utilities.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-utilities.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-utilities.rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-utilities.rtl.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-utilities.rtl.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap.rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap.rtl.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap.rtl.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/css/bootstrap.rtl.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/js/bootstrap.esm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/js/bootstrap.esm.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/js/bootstrap.esm.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/js/bootstrap.esm.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Bootstrap/V5/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/css/all.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/css/all.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/css/brands.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/css/brands.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/css/fontawesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/css/fontawesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/css/regular.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/css/regular.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/css/solid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/css/solid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/css/svg-with-js.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/css/svg-with-js.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/css/v4-font-face.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/css/v4-font-face.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/css/v4-shims.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/css/v4-shims.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/css/v5-font-face.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/css/v5-font-face.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/js/all.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/js/all.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/js/brands.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/js/brands.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/js/conflict-detection.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/js/conflict-detection.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/js/fontawesome.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/js/fontawesome.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/js/regular.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/js/regular.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/js/solid.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/js/solid.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/js/v4-shims.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/FontAwesome/V6/js/v4-shims.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/SourceHanSansCN/SourceHanSansCN-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/SourceHanSansCN/SourceHanSansCN-Bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/SourceHanSansCN/SourceHanSansCN-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/SourceHanSansCN/SourceHanSansCN-ExtraLight.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/SourceHanSansCN/SourceHanSansCN-Heavy.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/SourceHanSansCN/SourceHanSansCN-Heavy.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/SourceHanSansCN/SourceHanSansCN-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/SourceHanSansCN/SourceHanSansCN-Light.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/SourceHanSansCN/SourceHanSansCN-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/SourceHanSansCN/SourceHanSansCN-Medium.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/SourceHanSansCN/SourceHanSansCN-Normal.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/SourceHanSansCN/SourceHanSansCN-Normal.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/SourceHanSansCN/SourceHanSansCN-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/SourceHanSansCN/SourceHanSansCN-Regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/SourceHanSansCN/SourceHanSansCN.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Fonts/SourceHanSansCN/SourceHanSansCN.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <list id="119fa6aa-7769-4dc7-b4a4-1e05ccba850b" name="idea" comment="新增 FontAwesome" />
     <option name="SHOW_DIALOG" value="false" />
@@ -161,21 +68,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/DevCode/bootstrap-npm-starter",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/DevCode/bootstrap-npm-starter&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\DevCode\HuiKeYun-res\src" />
@@ -219,7 +126,7 @@
       <workItem from="1657802371501" duration="2743000" />
       <workItem from="1657809687148" duration="126000" />
       <workItem from="1657874659917" duration="191000" />
-      <workItem from="1657882404419" duration="3345000" />
+      <workItem from="1657882404419" duration="5101000" />
     </task>
     <task id="LOCAL-00001" summary="新增">
       <created>1657640064383</created>
@@ -417,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657874740091</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="修改为webpack管理">
+      <created>1657887055762</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1657887055763</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,6 +359,7 @@
     <MESSAGE value="修改" />
     <MESSAGE value="新增 FontAwesome" />
     <MESSAGE value="升级bootstrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="升级bootstrap" />
+    <MESSAGE value="修改为webpack管理" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改为webpack管理" />
   </component>
 </project>

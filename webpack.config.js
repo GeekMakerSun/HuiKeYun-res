@@ -12,8 +12,9 @@ module.exports = {
   plugins: [
     new CopyPlugin({
       patterns: [
-        { from: "static" },
-        { from: "node_modules/bootstrap/dist", to: "bootstrap" },
+        {from: "static", force: true},
+        {from: "node_modules/bootstrap/dist", to: "bootstrap", force: true},
+        {from: "node_modules/@popperjs/core/dist", to: "/@popperjs", force: true},
       ],
       options: {
         concurrency: 500,
