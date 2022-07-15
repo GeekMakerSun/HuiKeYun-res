@@ -15,7 +15,7 @@ module.exports = {
   plugins: [
     new CopyPlugin({
       patterns: [
-        {from: "static", force: true},
+        {from: "assets", force: true},
         {from: "node_modules/bootstrap/dist", to: "bootstrap", force: true},
         {from: "node_modules/@popperjs/core/dist", to: "/@popperjs", force: true},
       ],
