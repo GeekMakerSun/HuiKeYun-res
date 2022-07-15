@@ -1,11 +1,19 @@
-/*
-import sum from "./js/sum";
-import getLength from "./js/str";
+function getComponent() {
+	const element = document.createElement('div');
+	return import('lodash')
+			.then(({default: _}) => {
+				const element = document.createElement('div');
 
-const result = sum(1, 2, 3, 4, 5)
-console.log(`sum result: ${result}`)
+				element.innerHTML = _.join(['Hello', 'webpack'], ' ');
+				return element;
+			})
+			.catch((error) => 'An error occurred while loading the component');
+}
 
-const len = getLength('Hello Webpack')
-console.log(`len: ${len}`)
-*/
-console.log(`Hi,你好呀`)
+getComponent().then((component) => {
+	document.body.appendChild(component);
+});
+
+if (process.env.NODE_ENV !== 'production') {
+	console.log('现在处于开发模式');
+}
