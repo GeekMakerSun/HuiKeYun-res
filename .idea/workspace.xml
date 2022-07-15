@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="616b3be0-bb29-465b-81f4-a0bf5d2eb457" name="变更" comment="修改" />
-    <list id="119fa6aa-7769-4dc7-b4a4-1e05ccba850b" name="idea" comment="新增 FontAwesome" />
+    <list default="true" id="616b3be0-bb29-465b-81f4-a0bf5d2eb457" name="变更" comment="修改">
+      <change beforePath="$PROJECT_DIR$/assets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
