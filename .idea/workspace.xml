@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="119fa6aa-7769-4dc7-b4a4-1e05ccba850b" name="idea" comment="修改" />
+    <list default="true" id="119fa6aa-7769-4dc7-b4a4-1e05ccba850b" name="idea" comment="新增 FontAwesome" />
     <list id="616b3be0-bb29-465b-81f4-a0bf5d2eb457" name="变更" comment=".idea" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,25 +60,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="616b3be0-bb29-465b-81f4-a0bf5d2eb457" name="变更" comment="" />
       <changelist id="119fa6aa-7769-4dc7-b4a4-1e05ccba850b" name="idea" comment="修改.ideea" />
-      <changelist id="" name="变更vercel.json" comment="变更vercel.json" />
       <created>1657640036739</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -89,6 +88,7 @@
       <workItem from="1657671919060" duration="846000" />
       <workItem from="1657790069594" duration="1143000" />
       <workItem from="1657802371501" duration="2743000" />
+      <workItem from="1657809687148" duration="126000" />
     </task>
     <task id="LOCAL-00001" summary="新增">
       <created>1657640064383</created>
@@ -265,7 +265,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657805266279</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="修改">
+      <created>1657809714774</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1657809714774</updated>
+    </task>
+    <task id="LOCAL-00027" summary="新增 FontAwesome">
+      <created>1657809758312</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1657809758312</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,6 +305,7 @@
     <MESSAGE value="修改.ideea" />
     <MESSAGE value="变更vercel.json" />
     <MESSAGE value="修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改" />
+    <MESSAGE value="新增 FontAwesome" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增 FontAwesome" />
   </component>
 </project>
