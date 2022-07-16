@@ -11,7 +11,7 @@ module.exports = merge(common, {
 			patterns: [
 				{from: "assets", force: true},
 				{from: "node_modules/bootstrap/dist", to: "bootstrap", force: true},
-				{from: "node_modules/@popperjs/core/dist", to: "@popperjs", force: true},
+				{from: "node_modules/@popperjs/core/dist", to: "popperjs", force: true},
         {from: "node_modules/jquery/dist", to: "jquery", force: true},
 			],
 			options: {
