@@ -16,7 +16,7 @@ module.exports = {
 				collapseWhitespace: true, // 删除空白符与换行符
 				minifyCSS: true // 压缩内联css
 			},
-			templateParameters: (compilation, assets, assetTags, options) => {
+			templateParameters: (container, assets, assetTags, options) => {
 				console.log(arguments)
 				return {
 					title: "慧科云静态资源站",
