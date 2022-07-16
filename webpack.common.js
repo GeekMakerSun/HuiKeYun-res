@@ -19,9 +19,9 @@ module.exports = {
 			templateParameters: (compilation, assets, assetTags, options) => {
 				console.log(arguments)
 				return {
-					title: "测试htmlWebpackPlugin",
-					myName: 'huang-biao',
-					sonName:'huang-haili'
+					title: "慧科云静态资源站",
+					myName: '慧科云',
+					sonName:'粤ICP备2022065970号-1'
 				}
 			},
 			inject: true, // true 或body 默认值，script标签位于html文件的 body 底部; head script 标签位于 head 标签内
