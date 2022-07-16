@@ -21,6 +21,7 @@
     "@popperjs/core": "^2.11.5",
     "aegis-web-sdk": "^1.35.28",
     "bootstrap": "5.2.0-beta1",
+    "jquery": "^3.6.0",
     "lodash": "^4.17.21"
   }
 }
