@@ -26,7 +26,7 @@ module.exports = {
 			},
 			inject: true, // true 或body 默认值，script标签位于html文件的 body 底部; head script 标签位于 head 标签内
 			hash: true, // 引入 js 文件后面紧跟一个独特的 hash 值
-			filename: "index.html", // 文件名
+			filename: "index1.html", // 文件名
 			// filename: 'huangbiao.html', // 文件名
 			// filename:'huangbiao-[hash].html', // 带hash 值的文件名
 			template: "./src/template/index.html" // 模板地址
